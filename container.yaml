@@ -1,0 +1,4 @@
+remote_source:
+  repo: https://github.com/release-engineering/retrodep
+  ref: 12a0692be09fc18ce82a71904562d8408fe2296a
+  pkg_managers: ["gomod"]
